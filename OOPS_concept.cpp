@@ -9,7 +9,7 @@ class Student
     public:
     void  input();
     void output();
-};
+};  
 
 int  main ()
 {
