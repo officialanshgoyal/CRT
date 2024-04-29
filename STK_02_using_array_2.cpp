@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std ;
 
 #define MAX_SIZE 5 // Maximum size of stack
 
