@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 #define MAX_SIZE 5
 using namespace std;
@@ -78,3 +76,4 @@ void peek()
     {	cout << "Stack is empty" << endl;
     }
 }
+
