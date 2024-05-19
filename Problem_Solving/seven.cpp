@@ -1,0 +1,2 @@
+// Mode in array  
+// Emotaization 

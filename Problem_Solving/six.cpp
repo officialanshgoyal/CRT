@@ -34,6 +34,7 @@ double median(int *arr, int n){
      return ans;
 }
 
+
 int main() {
     int arr[7] = {1,2,3,4,5,6,7};
     int n=7;
