@@ -38,6 +38,6 @@ bool solve(string s){
 }
 
 int main(){
-    string s="()";
+    string s="([)";
     cout<<solve(s)<<endl;
 }
